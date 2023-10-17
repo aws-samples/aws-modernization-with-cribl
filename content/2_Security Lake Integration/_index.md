@@ -147,7 +147,7 @@ Account ID(from the Account that contain S3 bucket created) </br>
 
     ![Partner Logo](/images/cribl34-1.png)
 
-3. Drag and drop the pipeline you created so it is before the **default** pipeline
+3. Drag and drop the route you created so it is before the **default** pipeline
 
 
 ## Set Up Pipeline for SIEM
