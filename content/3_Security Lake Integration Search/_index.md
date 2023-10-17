@@ -55,13 +55,13 @@ Let's setup two Cribl Dataset
 2. Enter following data on the screen: <br/>
    *ID:* securitylake_Search_Dataset <br/>
    *Description File:* securitylake_Search_Dataset<br/>
-   *Dataset Provider: *securitylake_Search <br/>
-   *Bucket path* [bucketname]/ext/palo-alto-traffic/ <br/>
-   *Path Filter* True  <br/>
-   *Auto-detect region* Yes
+   *Dataset Provider:* securitylake_Search <br/>
+   *Bucket path:* [bucketname]/ext/palo-alto-traffic/ <br/>
+   *Path Filter:* True  <br/>
+   *Auto-detect region:* Yes
 
    
-![Partner Logo](/images/cribl40.png)
+![Partner Logo](/images/cribl40-1.png)
 
 3. Click *Save*
 
