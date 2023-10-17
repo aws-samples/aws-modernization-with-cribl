@@ -129,7 +129,7 @@ Account ID(from the Account that contain S3 bucket created) </br>
  - Name the Input ID : *palo-alto-datagen*
  - Select the Datagenerator File *palo_alto_traffic.log*
  - ![Datagen](/images/cribl54-2.png)
- - Add Fields: sourcetype = 'pan:traffic'
+ - Add Fields: sourcetype = `'pan:traffic'`
  - ![Datagen](/images/cribl54-1.png)
  - Click *Save*
 
