@@ -22,8 +22,3 @@ Wherever your data comes from, wherever it needs to go, Cribl gives you the free
 
 ![Cribl Products](https://docs.cribl.io/img/page/ISO_arch_lightmode.svg)
 
-In this section, we will cover the following topics:
-
-* [Integrating Cribl Stream and Search into Amazon Security Lake](/content/2_Security%20Lake%20Integration/_index.md)
-* [Converting VPC Flow Logs to Metrics](/content/3_VPC%20Flow%20Logs%20to%20Metrics/_index.md)
-* [Optimizing CloudTrail Events](/content/5_CloudTrail%20Optimization/_index.md)
