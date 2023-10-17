@@ -113,7 +113,7 @@ S3 bucket name* (**s3DefaultSecurityLake** value from Resources tab of CloudForm
 Region (US-East) </br>
 Account ID(from the Account that contain S3 bucket created) </br>
 
-3. Assume Role Tab, copy the arn (RoleArn in **output** tab of Cloudformation ) and external ID
+3. Assume Role Tab, copy the arn (RoleArn in **Outputs** tab of Cloudformation ) and external ID
    ![Partner Logo](/images/cribl31-1.png)
    ![Partner Logo](/images/cribl31-2.png)
 4. Commit and Deploy Changes
