@@ -110,6 +110,8 @@ Please review all the sections in the [Cribl Amazon Security Lake Docs](https://
 2. Enter the following values:</br>
 Output ID: **s3SIEMdest** </br>
 S3 bucket name* (**s3DefaultSecurityLake** value from Resources tab of CloudFormation)</br>
+KeyPrefix : **Output**
+Enable for S3: **Yes**
 Region (US-East) </br>
 Account ID(from the Account that contain S3 bucket created) </br>
 
