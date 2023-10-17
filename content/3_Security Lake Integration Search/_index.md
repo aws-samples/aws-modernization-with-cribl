@@ -25,7 +25,7 @@ Let's setup two Cribl Dataset
    *ID:* securitylake_Search <br/>
    *Description File:* securitylake_Search <br/>
    *Dataset Provider Type:* Amazon S3<br/>
-   *Authentication Method:* AssumeRole
+   *Authentication Method:* AssumeRole <br/>
    *AssumeRole ARN:* Get this from your AWS Account (see your Cloudformation **Output** tab)
 ![Partner Logo](/images/cribl59.png)
 
