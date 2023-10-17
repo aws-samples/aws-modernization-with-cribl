@@ -73,10 +73,10 @@ Let's setup two Cribl Dataset
 2. Enter following data on the screen: <br/>
    *ID:* SIEM_Search <br/>
    *Description File:* Search_Dataset<br/>
-   *Dataset Provider: *SIEM_Search <br/>
-   *Bucket path* Bucket path: [bucketname]/output/ <br/>
-   *Path Filter* True <br/>
-   *Auto-detect region* Yes
+   *Dataset Provider:* SIEM_Search <br/>
+   *Bucket path:* [bucketname]/output/ <br/>
+   *Path Filter:* True <br/>
+   *Auto-detect region:* Yes
 
 ![Partner Logo](/images/cribl62.png)
 3. Click *Save*
