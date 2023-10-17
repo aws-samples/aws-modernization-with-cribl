@@ -139,7 +139,7 @@ Account ID(from the Account that contain S3 bucket created) </br>
 1. Go to *Cribl.Cloud* --> *Cribl Stream* --> *Routing* --> *Data Routes* --> Click *Add Routes*
 2. Enter the following values: </br>
    Route Name: PaloAltoLogs </br>
-   Filter: __inputId=='datagen:palo-alto-datagen' </br>
+   Filter: `__inputId=='datagen:palo-alto-datagen' `</br>
    Pipeline: Select from dropdown _PACK AWS_OCSF_Mapping (OCSF Post Processor)_ </br>
    Enable Expression: No </br>
    Output: Select from dropdown _security_lake:s3dest_</br>
