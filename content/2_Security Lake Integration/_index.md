@@ -99,7 +99,7 @@ Please review all the sections in the [Cribl Amazon Security Lake Docs](https://
    *Account ID*(from the Account that contain S3 bucket created)</br>
    *Custom source name*: **palo-alto-traffic**</br>
    ![Partner Logo](/images/cribl30.png)
-3. Assume Role Tab, copy the arn (**RoleArn** in output tab	) and external ID.
+3. Assume Role Tab, copy the arn (**RoleArn** in **Output** tab	 of Cloudformation) and external ID.
    ![Partner Logo](/images/cribl31.png)
 4. Parquet settings tab: Select the parquet schema from the drop down and leave every other value as default
    ![Partner Logo](/images/cribl32.png)
