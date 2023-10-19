@@ -109,7 +109,7 @@ Please review all the sections in the [Cribl Amazon Security Lake Docs](https://
 1. Go to *Cribl.Cloud* --> *Cribl Stream* --> *Data* --> *Destinations* -->*S3*--> Click *Add Destination* </br>
 2. Enter the following values:</br>
 Output ID: **s3SIEMdest** </br>
-S3 bucket name* (**s3DefaultSecurityLake** value from Resources tab of CloudFormation)</br>
+S3 bucket name* (**s3DefaultSIEM** value from Resources tab of CloudFormation)</br>
 KeyPrefix : **Output**
 Enable for S3: **Yes**
 Region (US-East) </br>
